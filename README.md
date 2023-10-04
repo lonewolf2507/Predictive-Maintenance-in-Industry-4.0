@@ -65,6 +65,8 @@ These sampling techniques addressed the imbalance and reduced dimensionality whi
 
 The data wrangling process played a pivotal role in preparing the dataset for predictive modeling, ensuring that the model is robust and capable of making accurate predictions on real-world data.
 
+![Data_wrangling](data_wrangling.png)
+
 ## Model Training
 
 ![Model_training_](Bosch.jpg)
