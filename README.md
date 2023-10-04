@@ -67,7 +67,7 @@ The data wrangling process played a pivotal role in preparing the dataset for pr
 
 ## Model Training
 
-![Model_training](model_training.png)
+![Model_training_](model_training.png)
 
 The image above provides an illustrative representation of our model training process.
 
